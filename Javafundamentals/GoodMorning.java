@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class GoodMorning {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 Scanner scanner = new Scanner(System.in);
 System.out.println("Enter time in 24hour format:");
 int hour = scanner.nextInt();

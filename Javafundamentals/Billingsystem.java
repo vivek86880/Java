@@ -7,6 +7,7 @@ public class Billingsystem {
         Scanner sc = new Scanner(System.in);
 
         // Input
+        System.out.println("Enter Total Amount: ");
         int total = sc.nextInt();
 
         // Apply discount
